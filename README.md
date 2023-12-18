@@ -3,7 +3,7 @@
 Example applications demonstrating to use the [WorkOS Node SDK](https://github.com/workos-inc/workos-node) for SSO and Directory Sync
 **➞ Please check the individual folders above for setup directions.**
 
-## For more information, please see the following guides:
+## For more guidelines on WorkOS, please see the following guides:
 
 - [Single Sign-On](https://workos.com/docs/sso/guide)
 - [Directory Sync](https://workos.com/docs/directory-sync/guide)
