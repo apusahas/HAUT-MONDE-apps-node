@@ -1,6 +1,6 @@
 # Node Applications for The HAUT MONDE Book Club powered by WorkOS
 
-Example applications demonstrating to use the [WorkOS Node SDK](https://github.com/workos-inc/workos-node) for SSO and Directory Sync.
+Example applications demonstrating to use the [WorkOS Node SDK](https://github.com/workos-inc/workos-node) for SSO and Directory Sync
 **➞ Please check the individual folders above for setup directions.**
 
 ## For more information, please see the following guides:
