@@ -12,20 +12,20 @@ Node.js version 10+
 
     ```bash
     # HTTPS
-    git clone https://github.com/workos/node-example-applications.git
+    git clone https://github.com/apusahas/HAUT-MONDE-apps-node.git
     ```
 
     or
 
     ```bash
     # SSH
-    git clone git@github.com:workos/node-example-applications.git
+    git clone git@github.com:apusahas/HAUT-MONDE-apps-node.git
     ```
 
 2. Navigate to the SSO app within the cloned repo.
 
     ```bash
-    cd node-example-applications/node-sso-example
+    cd HAUT-MONDE-apps-node/HAUT-MONDE-sso
     ```
 
 3. Install the dependencies.
